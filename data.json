@@ -289,6 +289,16 @@
       "badge": "",
       "url": "https://drive.google.com/file/d/1jNKwBMGLIXxqwD3OfWHLbzDEp5w4RKEM/view?usp=drive_link",
       "date": "2026-05-28"
+    },
+    {
+      "id": 30,
+      "type": "python_simulink",
+      "title": "Résolution numérique du courant de défaut dans le circuit R-L avec arc constant.m",
+      "subject": "",
+      "info": "",
+      "badge": "",
+      "url": "https://drive.google.com/file/d/1PnMDcbRDYoUmehXZIGhvbsWzxcA-CzW7/view?usp=drive_link",
+      "date": "2026-05-28"
     }
   ],
   "config": {
