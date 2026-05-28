@@ -679,6 +679,16 @@
       "badge": "",
       "url": "https://drive.google.com/drive/home",
       "date": "2026-05-28"
+    },
+    {
+      "id": 69,
+      "type": "seq_bts_electrotech",
+      "title": "Montage ex1",
+      "subject": "",
+      "info": "",
+      "badge": "",
+      "url": "https://drive.google.com/drive/home",
+      "date": "2026-05-28"
     }
   ],
   "config": {
