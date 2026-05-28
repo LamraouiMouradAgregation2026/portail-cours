@@ -233,7 +233,7 @@
     {
       "id": 24,
       "type": "normes",
-      "title": "synthèse.png",
+      "title": "synthese.png",
       "subject": "",
       "info": "",
       "badge": "",
@@ -283,7 +283,7 @@
     {
       "id": 29,
       "type": "python_simulink",
-      "title": "Courbe de déclenchement du disjoncteur FPV-63 (courbe C).m",
+      "title": "Courbe de declenchement du disjoncteur FPV-63 (courbe C).m",
       "subject": "",
       "info": "",
       "badge": "",
@@ -293,7 +293,7 @@
     {
       "id": 30,
       "type": "python_simulink",
-      "title": "Résolution numérique du courant de défaut dans le circuit R-L avec arc constant.m",
+      "title": "Résolution numerique du courant de defaut dans le circuit R-L avec arc constant.m",
       "subject": "",
       "info": "",
       "badge": "",
@@ -383,7 +383,7 @@
     {
       "id": 39,
       "type": "rapport_agregation",
-      "title": "Séquences.xlsx",
+      "title": "Sequences.xlsx",
       "subject": "",
       "info": "",
       "badge": "",
@@ -443,7 +443,7 @@
     {
       "id": 45,
       "type": "referentiels",
-      "title": "Sciences-Industrielles-de-llngénieur-4.png",
+      "title": "Sciences-Industrielles-de-l'lngenieur-4.png",
       "subject": "",
       "info": "",
       "badge": "",
