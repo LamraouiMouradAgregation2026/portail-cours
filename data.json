@@ -659,6 +659,16 @@
       "badge": "",
       "url": "https://drive.google.com/drive/folders/1cWNh5342_bIEqC_MJyZWkg5z2uSe3Qux",
       "date": "2026-05-28"
+    },
+    {
+      "id": 67,
+      "type": "seq_bts_electrotech",
+      "title": "Vidéo 2",
+      "subject": "",
+      "info": "",
+      "badge": "",
+      "url": "https://drive.google.com/drive/home",
+      "date": "2026-05-28"
     }
   ],
   "config": {
