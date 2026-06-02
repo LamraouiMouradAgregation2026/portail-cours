@@ -471,16 +471,6 @@
       "date": "2026-05-28"
     },
     {
-      "id": 52,
-      "type": "seq_bts_electrotech",
-      "title": "Grille evaluation enseignant .docx",
-      "subject": "",
-      "info": "",
-      "badge": "",
-      "url": "https://docs.google.com/document/d/1hX9vs-xDcu-mazEAKDEKXz890-fzmSCF/edit?usp=drive_link&ouid=111836865183985689262&rtpof=true&sd=true",
-      "date": "2026-05-28"
-    },
-    {
       "id": 56,
       "type": "seq_bts_electrotech",
       "title": "videoplayback.mp4",
@@ -583,7 +573,7 @@
     {
       "id": 66,
       "type": "seq_bts_electrotech",
-      "title": "VidÃ©o 1.mp4",
+      "title": "VidÃÂ©o 1.mp4",
       "subject": "",
       "info": "",
       "badge": "",
@@ -593,7 +583,7 @@
     {
       "id": 67,
       "type": "seq_bts_electrotech",
-      "title": "VidÃ©o 2",
+      "title": "VidÃÂ©o 2",
       "subject": "",
       "info": "",
       "badge": "",
@@ -603,7 +593,7 @@
     {
       "id": 68,
       "type": "seq_bts_electrotech",
-      "title": "VidÃ©o 3",
+      "title": "VidÃÂ©o 3",
       "subject": "",
       "info": "",
       "badge": "",
