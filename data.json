@@ -573,7 +573,7 @@
     {
       "id": 66,
       "type": "seq_bts_electrotech",
-      "title": "VidÃÂ©o 1.mp4",
+      "title": "VidÃÂÃÂ©o 1.mp4",
       "subject": "",
       "info": "",
       "badge": "",
@@ -583,7 +583,7 @@
     {
       "id": 67,
       "type": "seq_bts_electrotech",
-      "title": "VidÃÂ©o 2",
+      "title": "VidÃÂÃÂ©o 2",
       "subject": "",
       "info": "",
       "badge": "",
@@ -593,7 +593,7 @@
     {
       "id": 68,
       "type": "seq_bts_electrotech",
-      "title": "VidÃÂ©o 3",
+      "title": "VidÃÂÃÂ©o 3",
       "subject": "",
       "info": "",
       "badge": "",
@@ -753,7 +753,7 @@
     {
       "id": 84,
       "type": "sequence_st12d",
-      "title": "Proposition de séquence pédagogique STI2D – Terminale.pdf",
+      "title": "Proposition de sÃ©quence pÃ©dagogique STI2D â Terminale.pdf",
       "subject": "",
       "info": "",
       "badge": "",
@@ -773,7 +773,7 @@
     {
       "id": 86,
       "type": "sequence_st12d",
-      "title": "Grille autoévaluation.pdf",
+      "title": "Grille autoÃ©valuation.pdf",
       "subject": "",
       "info": "",
       "badge": "",
@@ -803,12 +803,22 @@
     {
       "id": 89,
       "type": "sequence_st12d",
-      "title": "Compétences.pdf",
+      "title": "CompÃ©tences.pdf",
       "subject": "",
       "info": "",
       "badge": "",
       "url": "https://drive.google.com/drive/folders/1JmwtAz4cnIbhmBxg-ka2YYq57zL_tbtC",
       "date": "2026-06-02"
+    },
+    {
+      "id": 90,
+      "type": "rapport_agregation",
+      "title": "Présentation.pptx",
+      "subject": "",
+      "info": "",
+      "badge": "",
+      "url": "https://drive.google.com/drive/folders/1gOw0PbXY4g6G6bhjPlPBx0FCHwNc4mnf",
+      "date": "2026-06-10"
     }
   ],
   "config": {
